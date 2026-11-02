@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 **5. Start the app**
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 ```
 
 The app opens automatically in your browser. Done.
